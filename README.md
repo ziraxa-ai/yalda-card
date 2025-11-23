@@ -1,1 +1,0 @@
-# yalda-card
